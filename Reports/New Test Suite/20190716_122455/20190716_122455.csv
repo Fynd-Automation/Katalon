@@ -1,0 +1,21 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+New Test Suite,Firefox 67.0,,,2019-07-16 12:25:37,2019-07-16 12:27:48,2m - 10.414s,INCOMPLETE
+,,,,,,,
+Test Cases/fynd1,Firefox 67.0,,,2019-07-16 12:25:38,2019-07-16 12:26:48,1m - 10.366s,PASSED
+"openBrowser("""")",Firefox 67.0,,,2019-07-16 12:25:39,2019-07-16 12:26:11,32.860s,PASSED
+"navigateToUrl(""https://www.fynd.com/"")",Firefox 67.0,,,2019-07-16 12:26:11,2019-07-16 12:26:26,14.702s,PASSED
+"click(findTestObject(""Object Repository/Page_Fynd  Online shopping/a_Brands""))",Firefox 67.0,,,2019-07-16 12:26:26,2019-07-16 12:26:30,3.943s,PASSED
+"click(findTestObject(""Object Repository/Page_Fynd  Online shopping/a_Kids""))",Firefox 67.0,,,2019-07-16 12:26:30,2019-07-16 12:26:33,3.038s,PASSED
+"click(findTestObject(""Object Repository/Page_Fynd  Online shopping/a_612 League""))",Firefox 67.0,,,2019-07-16 12:26:33,2019-07-16 12:26:36,2.533s,PASSED
+"click(findTestObject(""Object Repository/Page_Fynd  Online shopping/img_(2)_fy-lazy-img in-view-port loaded""))",Firefox 67.0,,,2019-07-16 12:26:36,2019-07-16 12:26:38,2.526s,PASSED
+"switchToWindowTitle(""Buy 612 League Blue Checked Shirt for Kids Online | Fynd"")",Firefox 67.0,,,2019-07-16 12:26:38,2019-07-16 12:26:43,5.155s,PASSED
+closeBrowser(),Firefox 67.0,,,2019-07-16 12:26:43,2019-07-16 12:26:48,4.968s,PASSED
+,,,,,,,
+Test Cases/New Test Case (1),Firefox 67.0,,,2019-07-16 12:26:48,2019-07-16 12:27:48,59.435s,FAILED
+"openBrowser("""")",Firefox 67.0,,,2019-07-16 12:26:49,2019-07-16 12:26:58,8.768s,PASSED
+"navigateToUrl(""https://wb.fynd.com/signin"")",Firefox 67.0,,,2019-07-16 12:26:58,2019-07-16 12:27:04,6.362s,PASSED
+"setText(findTestObject(""Object Repository/Page_Workbench - Data and ML product suite/input_Email_email""), ""sanamulla@gofynd.com"")",Firefox 67.0,,,2019-07-16 12:27:04,2019-07-16 12:27:07,3.550s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Workbench - Data and ML product suite/input_Password_password""), ""XGTRhfuJCtyxiQu+Byrp7A=="")",Firefox 67.0,,,2019-07-16 12:27:07,2019-07-16 12:27:11,3.389s,PASSED
+"click(findTestObject(""Object Repository/Page_Workbench - Data and ML product suite/span_Log in""))",Firefox 67.0,,,2019-07-16 12:27:11,2019-07-16 12:27:13,2.576s,PASSED
+"click(findTestObject(""Object Repository/Page_Workbench - Data and ML product suite/button_Lets Go""))",Firefox 67.0,,,2019-07-16 12:27:13,2019-07-16 12:27:16,2.427s,PASSED
+"click(findTestObject(""Object Repository/Page_Workbench - Data and ML product suite/span_CityMongo1""))",Firefox 67.0,,,2019-07-16 12:27:16,2019-07-16 12:27:48,31.925s,FAILED

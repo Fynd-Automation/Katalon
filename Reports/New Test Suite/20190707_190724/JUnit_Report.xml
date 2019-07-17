@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<testsuites name="New Test Suite" time="136" tests="1" failures="1" errors="0">
+    <testsuite name="New Test Suite" tests="1" failures="1" errors="0" time="136" timestamp="2019-07-07 19:07:35" hostname="Sana Mulla - DESKTOP-F3R3TBE" id="Test Suites/New Test Suite">
+        <properties>
+            <property name="deviceName" value=""/>
+            <property name="devicePlatform" value=""/>
+            <property name="logFolder" value="C:\\Users\\Sana Mulla\\Katalon Studio\\test\\Reports\\New Test Suite\\20190707_190724"/>
+            <property name="logFiles" value="C:\\Users\\Sana Mulla\\Katalon Studio\\test\\Reports\\New Test Suite\\20190707_190724\\execution0.log"/>
+            <property name="attachments" value="C:\\Users\\Sana Mulla\\Katalon Studio\\test\\Reports\\New Test Suite\\20190707_190724\\1562506790017.png"/>
+            <property name="hostName" value="Sana Mulla - DESKTOP-F3R3TBE"/>
+            <property name="os" value="Windows 10 64bit"/>
+            <property name="katalonVersion" value="6.2.1.2"/>
+            <property name="browser" value="Firefox 67.0"/>
+            <property name="hostAddress" value="172.20.10.12"/>
+            <property name="sessionId" value="468c0112-ac1f-44ab-9a2d-75183cacf11f"/>
+            <property name="seleniumVersion" value="3.141.59"/>
+            <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+            <property name="platform" value="Windows 10"/>
+        </properties>
+        <testcase name="Test Cases/fynd1" classname="Test Cases/fynd1" status="PASSED">
+            <system-out>2019-07-07 19:07:35 - [TEST_CASE][PASSED] - Test Cases/fynd1: Test Cases/fynd1&#xD;
+&#xD;
+2019-07-07 19:07:36 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''&#xD;
+&#xD;
+2019-07-07 19:07:37 - [MESSAGE][INFO] - Starting 'Firefox' driver&#xD;
+&#xD;
+2019-07-07 19:07:37 - [MESSAGE][INFO] - Action delay is set to 1 seconds&#xD;
+&#xD;
+2019-07-07 19:07:49 - [MESSAGE][PASSED] - Browser is opened with url: ''&#xD;
+&#xD;
+2019-07-07 19:07:49 - [TEST_STEP][PASSED] - navigateToUrl("https://www.fynd.com/"): Navigate to 'https://www.fynd.com/' successfully&#xD;
+&#xD;
+2019-07-07 19:08:05 - [MESSAGE][PASSED] - Navigate to 'https://www.fynd.com/' successfully&#xD;
+&#xD;
+2019-07-07 19:08:05 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Fynd  Online shopping/a_Brands")): Object: 'Object Repository/Page_Fynd  Online shopping/a_Brands' is clicked on&#xD;
+&#xD;
+2019-07-07 19:08:08 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Fynd  Online shopping/a_Brands' is clicked on&#xD;
+&#xD;
+2019-07-07 19:08:08 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Fynd  Online shopping/a_Kids")): Object: 'Object Repository/Page_Fynd  Online shopping/a_Kids' is clicked on&#xD;
+&#xD;
+2019-07-07 19:08:10 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Fynd  Online shopping/a_Kids' is clicked on&#xD;
+&#xD;
+2019-07-07 19:08:10 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Fynd  Online shopping/a_612 League")): Object: 'Object Repository/Page_Fynd  Online shopping/a_612 League' is clicked on&#xD;
+&#xD;
+2019-07-07 19:08:13 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Fynd  Online shopping/a_612 League' is clicked on&#xD;
+&#xD;
+2019-07-07 19:08:13 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Fynd  Online shopping/img_(2)_fy-lazy-img in-view-port loaded")): Object: 'Object Repository/Page_Fynd  Online shopping/img_(2)_fy-lazy-img in-view-port loaded' is clicked on&#xD;
+&#xD;
+2019-07-07 19:08:15 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Fynd  Online shopping/img_(2)_fy-lazy-img in-view-port loaded' is clicked on&#xD;
+&#xD;
+2019-07-07 19:08:15 - [TEST_STEP][PASSED] - switchToWindowTitle("Buy 612 League Blue Checked Shirt for Kids Online | Fynd"): Switched to window with title: 'Buy 612 League Blue Checked Shirt for Kids Online | Fynd'&#xD;
+&#xD;
+2019-07-07 19:08:20 - [MESSAGE][PASSED] - Switched to window with title: 'Buy 612 League Blue Checked Shirt for Kids Online | Fynd'&#xD;
+&#xD;
+2019-07-07 19:08:20 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Buy 612 League Blue Checked Shirt for Kids Online  Fynd/div_3Y")): Object: 'Object Repository/Page_Buy 612 League Blue Checked Shirt for Kids Online  Fynd/div_3Y' is clicked on&#xD;
+&#xD;
+2019-07-07 19:08:23 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Buy 612 League Blue Checked Shirt for Kids Online  Fynd/div_3Y' is clicked on&#xD;
+&#xD;
+2019-07-07 19:08:23 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Buy 612 League Blue Checked Shirt for Kids Online  Fynd/div_BUY NOW")): Object: 'Object Repository/Page_Buy 612 League Blue Checked Shirt for Kids Online  Fynd/div_BUY NOW' is clicked on&#xD;
+&#xD;
+2019-07-07 19:08:26 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Buy 612 League Blue Checked Shirt for Kids Online  Fynd/div_BUY NOW' is clicked on&#xD;
+&#xD;
+2019-07-07 19:08:26 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Buy 612 League Blue Checked Shirt for Kids Online  Fynd/a_CHECKOUT")): Object: 'Object Repository/Page_Buy 612 League Blue Checked Shirt for Kids Online  Fynd/a_CHECKOUT' is clicked on&#xD;
+&#xD;
+2019-07-07 19:08:31 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Buy 612 League Blue Checked Shirt for Kids Online  Fynd/a_CHECKOUT' is clicked on&#xD;
+&#xD;
+2019-07-07 19:08:31 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Fynd  Bag/button_REMOVE")): Object: 'Object Repository/Page_Fynd  Bag/button_REMOVE' is clicked on&#xD;
+&#xD;
+2019-07-07 19:08:34 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Fynd  Bag/button_REMOVE' is clicked on&#xD;
+&#xD;
+2019-07-07 19:08:34 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed&#xD;
+&#xD;
+2019-07-07 19:08:38 - [MESSAGE][PASSED] - Browser is closed</system-out>
+            <system-err></system-err>
+        </testcase>
+        <testcase name="Test Cases/New Test Case (1)" classname="Test Cases/New Test Case (1)" status="FAILED">
+            <failure type="FAILED" message="Test Cases/New Test Case (1) FAILED.&#xA;Reason:&#xA;com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/Page_Workbench - Data and ML product suite/button_Test Query'&#xD;&#xA;&#x9;at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)&#xD;&#xA;&#x9;at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)&#xD;&#xA;&#x9;at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:86)&#xD;&#xA;&#x9;at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:67)&#xD;&#xA;&#x9;at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:56)&#xD;&#xA;&#x9;at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:616)&#xD;&#xA;&#x9;at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$1.call(Unknown Source)&#xD;&#xA;&#x9;at New Test Case (1).run(New Test Case (1):46)&#xD;&#xA;&#x9;at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)&#xD;&#xA;&#x9;at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)&#xD;&#xA;&#x9;at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:337)&#xD;&#xA;&#x9;at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:328)&#xD;&#xA;&#x9;at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:307)&#xD;&#xA;&#x9;at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:299)&#xD;&#xA;&#x9;at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:233)&#xD;&#xA;&#x9;at com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:133)&#xD;&#xA;&#x9;at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:116)&#xD;&#xA;&#x9;at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:83)&#xD;&#xA;&#x9;at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)&#xD;&#xA;&#x9;at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)&#xD;&#xA;&#x9;at TempTestSuite1562506644334.run(TempTestSuite1562506644334.groovy:35)&#xD;&#xA;Caused by: org.openqa.selenium.ElementClickInterceptedException: Element &lt;button class=&quot;wb-btn-solid-small btn ng-star-inserted&quot;&gt; is not clickable at point (1221,43) because another element &lt;mat-toolbar class=&quot;wb-navbar-small&quot;&gt; obscures it&#xA;Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'&#xA;System info: host: 'DESKTOP-F3R3TBE', ip: '172.20.10.12', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_181'&#xA;Driver info: com.kms.katalon.core.webui.driver.firefox.CGeckoDriver&#xA;Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 67.0.4, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20190619235627, moz:geckodriverVersion: 0.23.0, moz:headless: false, moz:processID: 12260, moz:profile: C:\Users\Sana Mulla\AppData..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, proxy: Proxy(direct), rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}&#xA;Session ID: 468c0112-ac1f-44ab-9a2d-75183cacf11f&#xD;&#xA;&#x9;at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)&#xD;&#xA;&#x9;at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)&#xD;&#xA;&#x9;at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)&#xD;&#xA;&#x9;at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)&#xD;&#xA;&#x9;at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)&#xD;&#xA;&#x9;at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)&#xD;&#xA;&#x9;at com.kms.katalon.selenium.driver.CFirefoxDriver.execute(CFirefoxDriver.java:28)&#xD;&#xA;&#x9;at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)&#xD;&#xA;&#x9;at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)&#xD;&#xA;&#x9;at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:79)&#xD;&#xA;&#x9;at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)&#xD;&#xA;&#x9;at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)&#xD;&#xA;&#x9;... 19 more&#xD;&#xA;"/>
+            <system-out>2019-07-07 19:08:38 - [TEST_CASE][FAILED] - Test Cases/New Test Case (1): Test Cases/New Test Case (1) FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/Page_Workbench - Data and ML product suite/button_Test Query'&#xD;
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)&#xD;
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)&#xD;
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:86)&#xD;
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:67)&#xD;
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:56)&#xD;
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:616)&#xD;
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$1.call(Unknown Source)&#xD;
+	at New Test Case (1).run(New Test Case (1):46)&#xD;
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)&#xD;
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)&#xD;
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:337)&#xD;
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:328)&#xD;
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:307)&#xD;
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:299)&#xD;
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:233)&#xD;
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:133)&#xD;
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:116)&#xD;
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:83)&#xD;
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)&#xD;
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)&#xD;
+	at TempTestSuite1562506644334.run(TempTestSuite1562506644334.groovy:35)&#xD;
+Caused by: org.openqa.selenium.ElementClickInterceptedException: Element &lt;button class="wb-btn-solid-small btn ng-star-inserted"&gt; is not clickable at point (1221,43) because another element &lt;mat-toolbar class="wb-navbar-small"&gt; obscures it
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'DESKTOP-F3R3TBE', ip: '172.20.10.12', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_181'
+Driver info: com.kms.katalon.core.webui.driver.firefox.CGeckoDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 67.0.4, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20190619235627, moz:geckodriverVersion: 0.23.0, moz:headless: false, moz:processID: 12260, moz:profile: C:\Users\Sana Mulla\AppData..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, proxy: Proxy(direct), rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 468c0112-ac1f-44ab-9a2d-75183cacf11f&#xD;
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)&#xD;
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)&#xD;
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)&#xD;
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)&#xD;
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)&#xD;
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)&#xD;
+	at com.kms.katalon.selenium.driver.CFirefoxDriver.execute(CFirefoxDriver.java:28)&#xD;
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)&#xD;
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)&#xD;
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:79)&#xD;
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)&#xD;
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)&#xD;
+	... 19 more&#xD;
+&#xD;
+&#xD;
+2019-07-07 19:08:38 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''&#xD;
+&#xD;
+2019-07-07 19:08:38 - [MESSAGE][INFO] - Starting 'Firefox' driver&#xD;
+&#xD;
+2019-07-07 19:08:47 - [MESSAGE][PASSED] - Browser is opened with url: ''&#xD;
+&#xD;
+2019-07-07 19:08:47 - [TEST_STEP][PASSED] - navigateToUrl("https://wb.fynd.com/signin"): Navigate to 'https://wb.fynd.com/signin' successfully&#xD;
+&#xD;
+2019-07-07 19:09:15 - [MESSAGE][PASSED] - Navigate to 'https://wb.fynd.com/signin' successfully&#xD;
+&#xD;
+2019-07-07 19:09:15 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Workbench - Data and ML product suite/input_Email_email"), "sanamulla@gofynd.com"): Text 'sanamulla@gofynd.com' is set on object 'Object Repository/Page_Workbench - Data and ML product suite/input_Email_email'&#xD;
+&#xD;
+2019-07-07 19:09:18 - [MESSAGE][PASSED] - Text 'sanamulla@gofynd.com' is set on object 'Object Repository/Page_Workbench - Data and ML product suite/input_Email_email'&#xD;
+&#xD;
+2019-07-07 19:09:18 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Page_Workbench - Data and ML product suite/input_Password_password"), "XGTRhfuJCtyxiQu+Byrp7A=="): Text ****** has been set on object 'Object Repository/Page_Workbench - Data and ML product suite/input_Password_password'&#xD;
+&#xD;
+2019-07-07 19:09:21 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Page_Workbench - Data and ML product suite/input_Password_password'&#xD;
+&#xD;
+2019-07-07 19:09:21 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Workbench - Data and ML product suite/span_Log in")): Object: 'Object Repository/Page_Workbench - Data and ML product suite/span_Log in' is clicked on&#xD;
+&#xD;
+2019-07-07 19:09:24 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Workbench - Data and ML product suite/span_Log in' is clicked on&#xD;
+&#xD;
+2019-07-07 19:09:24 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Workbench - Data and ML product suite/button_Lets Go")): Object: 'Object Repository/Page_Workbench - Data and ML product suite/button_Lets Go' is clicked on&#xD;
+&#xD;
+2019-07-07 19:09:26 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Workbench - Data and ML product suite/button_Lets Go' is clicked on&#xD;
+&#xD;
+2019-07-07 19:09:26 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Workbench - Data and ML product suite/span_CityMongo1")): Object: 'Object Repository/Page_Workbench - Data and ML product suite/span_CityMongo1' is clicked on&#xD;
+&#xD;
+2019-07-07 19:09:30 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Workbench - Data and ML product suite/span_CityMongo1' is clicked on&#xD;
+&#xD;
+2019-07-07 19:09:30 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Workbench - Data and ML product suite/button_ExecuteExisting")): Object: 'Object Repository/Page_Workbench - Data and ML product suite/button_ExecuteExisting' is clicked on&#xD;
+&#xD;
+2019-07-07 19:09:32 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Workbench - Data and ML product suite/button_ExecuteExisting' is clicked on&#xD;
+&#xD;
+2019-07-07 19:09:32 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Workbench - Data and ML product suite/button_Execute")): Object: 'Object Repository/Page_Workbench - Data and ML product suite/button_Execute' is clicked on&#xD;
+&#xD;
+2019-07-07 19:09:35 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Workbench - Data and ML product suite/button_Execute' is clicked on&#xD;
+&#xD;
+2019-07-07 19:09:35 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Workbench - Data and ML product suite/button_Edit API")): Object: 'Object Repository/Page_Workbench - Data and ML product suite/button_Edit API' is clicked on&#xD;
+&#xD;
+2019-07-07 19:09:37 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Workbench - Data and ML product suite/button_Edit API' is clicked on&#xD;
+&#xD;
+2019-07-07 19:09:37 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Workbench - Data and ML product suite/button_Test Query")): Object: 'Object Repository/Page_Workbench - Data and ML product suite/button_Test Query' is clicked on&#xD;
+&#xD;
+2019-07-07 19:09:40 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Workbench - Data and ML product suite/button_Test Query' is clicked on&#xD;
+&#xD;
+2019-07-07 19:09:40 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Workbench - Data and ML product suite/div_dbcityfind()")): Object: 'Object Repository/Page_Workbench - Data and ML product suite/div_dbcityfind()' is clicked on&#xD;
+&#xD;
+2019-07-07 19:09:42 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Workbench - Data and ML product suite/div_dbcityfind()' is clicked on&#xD;
+&#xD;
+2019-07-07 19:09:42 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Workbench - Data and ML product suite/textarea_Tip  Use CtrlEnter OR CommandEnter to Execute_ace_text-input"), "db.city.findOne()"): Text 'db.city.findOne()' is set on object 'Object Repository/Page_Workbench - Data and ML product suite/textarea_Tip  Use CtrlEnter OR CommandEnter to Execute_ace_text-input'&#xD;
+&#xD;
+2019-07-07 19:09:45 - [MESSAGE][PASSED] - Text 'db.city.findOne()' is set on object 'Object Repository/Page_Workbench - Data and ML product suite/textarea_Tip  Use CtrlEnter OR CommandEnter to Execute_ace_text-input'&#xD;
+&#xD;
+2019-07-07 19:09:45 - [TEST_STEP][PASSED] - click(findTestObject("Page_Workbench - Data and ML product suite/div_dbcityfindOne()")): Object: 'Object Repository/Page_Workbench - Data and ML product suite/div_dbcityfindOne()' is clicked on&#xD;
+&#xD;
+2019-07-07 19:09:47 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Workbench - Data and ML product suite/div_dbcityfindOne()' is clicked on&#xD;
+&#xD;
+2019-07-07 19:09:47 - [TEST_STEP][FAILED] - click(findTestObject("Object Repository/Page_Workbench - Data and ML product suite/button_Test Query")): Unable to click on object 'Object Repository/Page_Workbench - Data and ML product suite/button_Test Query' (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/Page_Workbench - Data and ML product suite/button_Test Query'&#xD;
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)&#xD;
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)&#xD;
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:86)&#xD;
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:67)&#xD;
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:56)&#xD;
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:616)&#xD;
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$1.call(Unknown Source)&#xD;
+	at New Test Case (1).run(New Test Case (1):46)&#xD;
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)&#xD;
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)&#xD;
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:337)&#xD;
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:328)&#xD;
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:307)&#xD;
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:299)&#xD;
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:233)&#xD;
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:133)&#xD;
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:116)&#xD;
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:83)&#xD;
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)&#xD;
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)&#xD;
+	at TempTestSuite1562506644334.run(TempTestSuite1562506644334.groovy:35)&#xD;
+Caused by: org.openqa.selenium.ElementClickInterceptedException: Element &lt;button class="wb-btn-solid-small btn ng-star-inserted"&gt; is not clickable at point (1221,43) because another element &lt;mat-toolbar class="wb-navbar-small"&gt; obscures it
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'DESKTOP-F3R3TBE', ip: '172.20.10.12', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_181'
+Driver info: com.kms.katalon.core.webui.driver.firefox.CGeckoDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 67.0.4, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20190619235627, moz:geckodriverVersion: 0.23.0, moz:headless: false, moz:processID: 12260, moz:profile: C:\Users\Sana Mulla\AppData..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, proxy: Proxy(direct), rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 468c0112-ac1f-44ab-9a2d-75183cacf11f&#xD;
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)&#xD;
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)&#xD;
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)&#xD;
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)&#xD;
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)&#xD;
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)&#xD;
+	at com.kms.katalon.selenium.driver.CFirefoxDriver.execute(CFirefoxDriver.java:28)&#xD;
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)&#xD;
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)&#xD;
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:79)&#xD;
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)&#xD;
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)&#xD;
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:86)&#xD;
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:67)&#xD;
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:56)&#xD;
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:616)&#xD;
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$1.call(Unknown Source)&#xD;
+	at Script1562499010396.run(Script1562499010396.groovy:46)&#xD;
+	... 13 more&#xD;
+)&#xD;
+&#xD;
+2019-07-07 19:09:51 - [MESSAGE][FAILED] - Unable to click on object 'Object Repository/Page_Workbench - Data and ML product suite/button_Test Query' (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/Page_Workbench - Data and ML product suite/button_Test Query'&#xD;
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)&#xD;
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)&#xD;
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:86)&#xD;
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:67)&#xD;
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:56)&#xD;
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:616)&#xD;
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$1.call(Unknown Source)&#xD;
+	at New Test Case (1).run(New Test Case (1):46)&#xD;
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)&#xD;
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)&#xD;
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:337)&#xD;
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:328)&#xD;
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:307)&#xD;
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:299)&#xD;
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:233)&#xD;
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:133)&#xD;
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:116)&#xD;
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:83)&#xD;
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)&#xD;
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)&#xD;
+	at TempTestSuite1562506644334.run(TempTestSuite1562506644334.groovy:35)&#xD;
+Caused by: org.openqa.selenium.ElementClickInterceptedException: Element &lt;button class="wb-btn-solid-small btn ng-star-inserted"&gt; is not clickable at point (1221,43) because another element &lt;mat-toolbar class="wb-navbar-small"&gt; obscures it
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'DESKTOP-F3R3TBE', ip: '172.20.10.12', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_181'
+Driver info: com.kms.katalon.core.webui.driver.firefox.CGeckoDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 67.0.4, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20190619235627, moz:geckodriverVersion: 0.23.0, moz:headless: false, moz:processID: 12260, moz:profile: C:\Users\Sana Mulla\AppData..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, proxy: Proxy(direct), rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 468c0112-ac1f-44ab-9a2d-75183cacf11f&#xD;
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)&#xD;
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)&#xD;
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)&#xD;
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)&#xD;
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)&#xD;
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)&#xD;
+	at com.kms.katalon.selenium.driver.CFirefoxDriver.execute(CFirefoxDriver.java:28)&#xD;
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)&#xD;
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)&#xD;
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:79)&#xD;
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)&#xD;
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)&#xD;
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:86)&#xD;
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:67)&#xD;
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:56)&#xD;
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:616)&#xD;
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$1.call(Unknown Source)&#xD;
+	at Script1562499010396.run(Script1562499010396.groovy:46)&#xD;
+	... 13 more&#xD;
+)&#xD;
+[[ATTACHMENT|C:\\Users\\Sana Mulla\\Katalon Studio\\test\\Reports\\New Test Suite\\20190707_190724\\1562506790017.png]]</system-out>
+            <system-err>2019-07-07 19:08:38 - [TEST_CASE][FAILED] - Test Cases/New Test Case (1): Test Cases/New Test Case (1) FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/Page_Workbench - Data and ML product suite/button_Test Query'&#xD;
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)&#xD;
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)&#xD;
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:86)&#xD;
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:67)&#xD;
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:56)&#xD;
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:616)&#xD;
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$1.call(Unknown Source)&#xD;
+	at New Test Case (1).run(New Test Case (1):46)&#xD;
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)&#xD;
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)&#xD;
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:337)&#xD;
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:328)&#xD;
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:307)&#xD;
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:299)&#xD;
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:233)&#xD;
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:133)&#xD;
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:116)&#xD;
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:83)&#xD;
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)&#xD;
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)&#xD;
+	at TempTestSuite1562506644334.run(TempTestSuite1562506644334.groovy:35)&#xD;
+Caused by: org.openqa.selenium.ElementClickInterceptedException: Element &lt;button class="wb-btn-solid-small btn ng-star-inserted"&gt; is not clickable at point (1221,43) because another element &lt;mat-toolbar class="wb-navbar-small"&gt; obscures it
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'DESKTOP-F3R3TBE', ip: '172.20.10.12', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_181'
+Driver info: com.kms.katalon.core.webui.driver.firefox.CGeckoDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 67.0.4, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20190619235627, moz:geckodriverVersion: 0.23.0, moz:headless: false, moz:processID: 12260, moz:profile: C:\Users\Sana Mulla\AppData..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, proxy: Proxy(direct), rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 468c0112-ac1f-44ab-9a2d-75183cacf11f&#xD;
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)&#xD;
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)&#xD;
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)&#xD;
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)&#xD;
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)&#xD;
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)&#xD;
+	at com.kms.katalon.selenium.driver.CFirefoxDriver.execute(CFirefoxDriver.java:28)&#xD;
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)&#xD;
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)&#xD;
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:79)&#xD;
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)&#xD;
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)&#xD;
+	... 19 more</system-err>
+        </testcase>
+        <system-out>2019-07-07 19:07:35 - [TEST_SUITE][INCOMPLETE] - New Test Suite: null</system-out>
+        <system-err>2019-07-07 19:07:35 - [TEST_SUITE][INCOMPLETE] - New Test Suite: null</system-err>
+    </testsuite>
+</testsuites>

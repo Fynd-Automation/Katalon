@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_REMOVE</name>
+   <tag></tag>
+   <elementGuidId>42bd451f-9358-4843-bb14-9d23b389edf7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@name='product_remove']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>product_remove</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-product</name>
+      <type>Main</type>
+      <value>{&quot;cart_id&quot;:&quot;5985936&quot;,&quot;product_id&quot;:&quot;763048&quot;,&quot;category&quot;:&quot;Shirts&quot;,&quot;category_id&quot;:&quot;520&quot;,&quot;name&quot;:&quot;Blue Checked Shirt&quot;,&quot;brand&quot;:&quot;612 League&quot;,&quot;size&quot;:&quot;3Y&quot;,&quot;is_highlighted&quot;:false,&quot;price&quot;:1009,&quot;price_marked&quot;:1345,&quot;seller_name&quot;:&quot;INDIAN CLOTHING LEAGUE PVT. LTD.&quot;,&quot;store_name&quot;:&quot;Udyoag Vihar&quot;,&quot;title&quot;:&quot;&quot;,&quot;subtitle&quot;:&quot;&quot;,&quot;info&quot;:&quot;Earn more &amp; use upto Rs.336 FC to get this for Rs.673&quot;,&quot;currency&quot;:&quot;INR&quot;}</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>{&quot;uid&quot;:&quot;763048_3Y&quot;,&quot;pid&quot;:763048,&quot;item_size&quot;:&quot;3Y&quot;,&quot;item_index&quot;:0}</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>product_remove _3kxpa _2NWGS</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>REMOVE</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cartForm&quot;)/div[@class=&quot;_3tzzP _30S-S&quot;]/div[@class=&quot;IDaLM&quot;]/div[@class=&quot;_3Mdam&quot;]/div[@class=&quot;_3Svo7&quot;]/div[1]/div[@class=&quot;_1ATqO&quot;]/div[@class=&quot;_2YFgq&quot;]/button[@class=&quot;product_remove _3kxpa _2NWGS&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@name='product_remove']</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='cartForm']/div[2]/div/div/div/div/div/div[4]/button</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sold by: Udyoag Vihar , INDIAN CLOTHING LEAGUE PVT. LTD.'])[1]/following::button[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='₹'])[3]/following::button[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='₹'])[4]/preceding::button[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Subtotal'])[1]/preceding::button[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+   </webElementXpaths>
+</WebElementEntity>

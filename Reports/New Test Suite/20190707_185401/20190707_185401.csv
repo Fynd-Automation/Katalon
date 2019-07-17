@@ -1,0 +1,25 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+New Test Suite,Firefox 67.0,,,2019-07-07 18:54:14,2019-07-07 18:55:59,1m - 45.302s,INCOMPLETE
+,,,,,,,
+Test Cases/fynd1,Firefox 67.0,,,2019-07-07 18:54:16,2019-07-07 18:54:56,40.706s,FAILED
+"openBrowser("""")",Firefox 67.0,,,2019-07-07 18:54:17,2019-07-07 18:54:33,15.345s,PASSED
+"navigateToUrl(""https://www.fynd.com/"")",Firefox 67.0,,,2019-07-07 18:54:33,2019-07-07 18:54:50,17.030s,PASSED
+"click(findTestObject(""Object Repository/Page_Fynd  Online shopping/a_Brands""))",Firefox 67.0,,,2019-07-07 18:54:50,2019-07-07 18:54:53,2.709s,PASSED
+"click(findTestObject(""Object Repository/Page_Fynd  Online shopping/a_Kids""))",Firefox 67.0,,,2019-07-07 18:54:53,2019-07-07 18:54:56,3.630s,FAILED
+,,,,,,,
+Test Cases/New Test Case (1),Firefox 67.0,,,2019-07-07 18:54:56,2019-07-07 18:55:59,1m - 3.142s,FAILED
+"openBrowser("""")",Firefox 67.0,,,2019-07-07 18:54:57,2019-07-07 18:55:10,12.885s,PASSED
+"navigateToUrl(""https://wb.fynd.com/signin"")",Firefox 67.0,,,2019-07-07 18:55:10,2019-07-07 18:55:25,14.295s,PASSED
+"setText(findTestObject(""Object Repository/Page_Workbench - Data and ML product suite/input_Email_email""), ""sanamulla@gofynd.com"")",Firefox 67.0,,,2019-07-07 18:55:25,2019-07-07 18:55:28,3.495s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Workbench - Data and ML product suite/input_Password_password""), ""XGTRhfuJCtyxiQu+Byrp7A=="")",Firefox 67.0,,,2019-07-07 18:55:28,2019-07-07 18:55:31,3.368s,PASSED
+"click(findTestObject(""Object Repository/Page_Workbench - Data and ML product suite/span_Log in""))",Firefox 67.0,,,2019-07-07 18:55:31,2019-07-07 18:55:34,2.368s,PASSED
+"click(findTestObject(""Object Repository/Page_Workbench - Data and ML product suite/button_Lets Go""))",Firefox 67.0,,,2019-07-07 18:55:34,2019-07-07 18:55:36,2.452s,PASSED
+"click(findTestObject(""Object Repository/Page_Workbench - Data and ML product suite/span_CityMongo1""))",Firefox 67.0,,,2019-07-07 18:55:36,2019-07-07 18:55:39,2.349s,PASSED
+"click(findTestObject(""Object Repository/Page_Workbench - Data and ML product suite/button_ExecuteExisting""))",Firefox 67.0,,,2019-07-07 18:55:39,2019-07-07 18:55:41,2.388s,PASSED
+"click(findTestObject(""Object Repository/Page_Workbench - Data and ML product suite/button_Execute""))",Firefox 67.0,,,2019-07-07 18:55:41,2019-07-07 18:55:43,2.260s,PASSED
+"click(findTestObject(""Object Repository/Page_Workbench - Data and ML product suite/button_Edit API""))",Firefox 67.0,,,2019-07-07 18:55:43,2019-07-07 18:55:46,2.732s,PASSED
+"click(findTestObject(""Object Repository/Page_Workbench - Data and ML product suite/button_Test Query""))",Firefox 67.0,,,2019-07-07 18:55:46,2019-07-07 18:55:48,2.281s,PASSED
+"click(findTestObject(""Object Repository/Page_Workbench - Data and ML product suite/div_dbcityfind()""))",Firefox 67.0,,,2019-07-07 18:55:48,2019-07-07 18:55:51,2.320s,PASSED
+"setText(findTestObject(""Object Repository/Page_Workbench - Data and ML product suite/textarea_Tip  Use CtrlEnter OR CommandEnter to Execute_ace_text-input""), ""db.city.findOne()"")",Firefox 67.0,,,2019-07-07 18:55:51,2019-07-07 18:55:54,3.260s,PASSED
+"click(findTestObject(""Page_Workbench - Data and ML product suite/div_dbcityfindOne()""))",Firefox 67.0,,,2019-07-07 18:55:54,2019-07-07 18:55:56,2.323s,PASSED
+"click(findTestObject(""Object Repository/Page_Workbench - Data and ML product suite/button_Test Query""))",Firefox 67.0,,,2019-07-07 18:55:56,2019-07-07 18:55:59,3.214s,FAILED

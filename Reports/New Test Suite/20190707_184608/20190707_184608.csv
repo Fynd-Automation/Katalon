@@ -1,0 +1,33 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+New Test Suite,Firefox 67.0,,,2019-07-07 18:46:13,2019-07-07 18:48:11,1m - 57.998s,INCOMPLETE
+,,,,,,,
+Test Cases/fynd1,Firefox 67.0,,,2019-07-07 18:46:14,2019-07-07 18:47:12,58.071s,PASSED
+"openBrowser("""")",Firefox 67.0,,,2019-07-07 18:46:15,2019-07-07 18:46:28,13.041s,PASSED
+"navigateToUrl(""https://www.fynd.com/"")",Firefox 67.0,,,2019-07-07 18:46:28,2019-07-07 18:46:39,11.385s,PASSED
+"click(findTestObject(""Object Repository/Page_Fynd  Online shopping/a_Brands""))",Firefox 67.0,,,2019-07-07 18:46:39,2019-07-07 18:46:42,2.689s,PASSED
+"click(findTestObject(""Object Repository/Page_Fynd  Online shopping/a_Kids""))",Firefox 67.0,,,2019-07-07 18:46:42,2019-07-07 18:46:45,2.947s,PASSED
+"click(findTestObject(""Object Repository/Page_Fynd  Online shopping/a_612 League""))",Firefox 67.0,,,2019-07-07 18:46:45,2019-07-07 18:46:47,2.732s,PASSED
+"click(findTestObject(""Object Repository/Page_Fynd  Online shopping/img_(2)_fy-lazy-img in-view-port loaded""))",Firefox 67.0,,,2019-07-07 18:46:47,2019-07-07 18:46:50,2.457s,PASSED
+"switchToWindowTitle(""Buy 612 League Blue Checked Shirt for Kids Online | Fynd"")",Firefox 67.0,,,2019-07-07 18:46:50,2019-07-07 18:46:55,5.131s,PASSED
+"click(findTestObject(""Object Repository/Page_Buy 612 League Blue Checked Shirt for Kids Online  Fynd/div_3Y""))",Firefox 67.0,,,2019-07-07 18:46:55,2019-07-07 18:46:58,2.606s,PASSED
+"click(findTestObject(""Object Repository/Page_Buy 612 League Blue Checked Shirt for Kids Online  Fynd/div_BUY NOW""))",Firefox 67.0,,,2019-07-07 18:46:58,2019-07-07 18:47:01,2.871s,PASSED
+"click(findTestObject(""Object Repository/Page_Buy 612 League Blue Checked Shirt for Kids Online  Fynd/a_CHECKOUT""))",Firefox 67.0,,,2019-07-07 18:47:01,2019-07-07 18:47:05,4.664s,PASSED
+"click(findTestObject(""Object Repository/Page_Fynd  Bag/button_REMOVE""))",Firefox 67.0,,,2019-07-07 18:47:05,2019-07-07 18:47:08,2.586s,PASSED
+closeBrowser(),Firefox 67.0,,,2019-07-07 18:47:08,2019-07-07 18:47:12,4.248s,PASSED
+,,,,,,,
+Test Cases/New Test Case (1),Firefox 67.0,,,2019-07-07 18:47:12,2019-07-07 18:48:11,59.046s,FAILED
+"openBrowser("""")",Firefox 67.0,,,2019-07-07 18:47:13,2019-07-07 18:47:23,10.019s,PASSED
+"navigateToUrl(""https://wb.fynd.com/signin"")",Firefox 67.0,,,2019-07-07 18:47:23,2019-07-07 18:47:36,13.138s,PASSED
+"setText(findTestObject(""Object Repository/Page_Workbench - Data and ML product suite/input_Email_email""), ""sanamulla@gofynd.com"")",Firefox 67.0,,,2019-07-07 18:47:36,2019-07-07 18:47:39,3.475s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Workbench - Data and ML product suite/input_Password_password""), ""XGTRhfuJCtyxiQu+Byrp7A=="")",Firefox 67.0,,,2019-07-07 18:47:39,2019-07-07 18:47:43,3.319s,PASSED
+"click(findTestObject(""Object Repository/Page_Workbench - Data and ML product suite/span_Log in""))",Firefox 67.0,,,2019-07-07 18:47:43,2019-07-07 18:47:45,2.341s,PASSED
+"click(findTestObject(""Object Repository/Page_Workbench - Data and ML product suite/button_Lets Go""))",Firefox 67.0,,,2019-07-07 18:47:45,2019-07-07 18:47:47,2.435s,PASSED
+"click(findTestObject(""Object Repository/Page_Workbench - Data and ML product suite/span_CityMongo1""))",Firefox 67.0,,,2019-07-07 18:47:47,2019-07-07 18:47:50,2.324s,PASSED
+"click(findTestObject(""Object Repository/Page_Workbench - Data and ML product suite/button_ExecuteExisting""))",Firefox 67.0,,,2019-07-07 18:47:50,2019-07-07 18:47:52,2.509s,PASSED
+"click(findTestObject(""Object Repository/Page_Workbench - Data and ML product suite/button_Execute""))",Firefox 67.0,,,2019-07-07 18:47:52,2019-07-07 18:47:54,2.300s,PASSED
+"click(findTestObject(""Object Repository/Page_Workbench - Data and ML product suite/button_Edit API""))",Firefox 67.0,,,2019-07-07 18:47:54,2019-07-07 18:47:58,3.069s,PASSED
+"click(findTestObject(""Object Repository/Page_Workbench - Data and ML product suite/button_Test Query""))",Firefox 67.0,,,2019-07-07 18:47:58,2019-07-07 18:48:00,2.270s,PASSED
+"click(findTestObject(""Object Repository/Page_Workbench - Data and ML product suite/div_dbcityfind()""))",Firefox 67.0,,,2019-07-07 18:48:00,2019-07-07 18:48:02,2.294s,PASSED
+"setText(findTestObject(""Object Repository/Page_Workbench - Data and ML product suite/textarea_Tip  Use CtrlEnter OR CommandEnter to Execute_ace_text-input""), ""db.city.findOne()"")",Firefox 67.0,,,2019-07-07 18:48:02,2019-07-07 18:48:05,3.216s,PASSED
+"click(findTestObject(""Page_Workbench - Data and ML product suite/div_dbcityfindOne()""))",Firefox 67.0,,,2019-07-07 18:48:05,2019-07-07 18:48:08,2.284s,PASSED
+"click(findTestObject(""Object Repository/Page_Workbench - Data and ML product suite/button_Test Query""))",Firefox 67.0,,,2019-07-07 18:48:08,2019-07-07 18:48:11,3.438s,FAILED

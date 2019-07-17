@@ -1,0 +1,13 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+New Test Suite,Firefox 67.0,,,2019-07-08 14:20:37,2019-07-08 14:21:18,40.852s,INCOMPLETE
+,,,,,,,
+Test Cases/fynd1,Firefox 67.0,,,2019-07-08 14:20:38,2019-07-08 14:21:00,22.593s,FAILED
+"openBrowser("""")",Firefox 67.0,,,2019-07-08 14:20:39,2019-07-08 14:20:50,11.255s,PASSED
+"navigateToUrl(""https://www.fynd.com/"")",Firefox 67.0,,,2019-07-08 14:20:50,2019-07-08 14:20:54,3.991s,PASSED
+"click(findTestObject(""Object Repository/Page_Fynd  Online shopping/a_Brands""))",Firefox 67.0,,,2019-07-08 14:20:54,2019-07-08 14:20:56,2.539s,PASSED
+"click(findTestObject(""Object Repository/Page_Fynd  Online shopping/a_Kids""))",Firefox 67.0,,,2019-07-08 14:20:56,2019-07-08 14:21:00,3.954s,FAILED
+,,,,,,,
+Test Cases/New Test Case (1),Firefox 67.0,,,2019-07-08 14:21:00,2019-07-08 14:21:18,17.708s,FAILED
+"openBrowser("""")",Firefox 67.0,,,2019-07-08 14:21:01,2019-07-08 14:21:11,10.140s,PASSED
+"navigateToUrl(""https://wb.fynd.com/signin"")",Firefox 67.0,,,2019-07-08 14:21:11,2019-07-08 14:21:15,3.705s,PASSED
+"setText(findTestObject(""Object Repository/Page_Workbench - Data and ML product suite/input_Email_email""), ""sanamulla@gofynd.com"")",Firefox 67.0,,,2019-07-08 14:21:15,2019-07-08 14:21:18,3.154s,FAILED
